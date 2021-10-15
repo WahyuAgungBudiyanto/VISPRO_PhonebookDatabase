@@ -13,10 +13,8 @@ CRUD Complete Project + UI</h3>
 		<a href="https://www.instagram.com/agung.b27/">
 			Instagram
 		</a>
-		
 	</b>
   </p>
-
 
 
 # Screenshot
