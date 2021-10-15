@@ -10,10 +10,10 @@ CRUD Complete Project + UI</h3>
 		<a href="https://web.facebook.com/wahyu.agung.77715/">
 			Facebook
 		</a>&nbsp;|
-		
 		<a href="https://www.instagram.com/agung.b27/">
 			Instagram
 		</a>
+		
 	</b>
   </p>
 
