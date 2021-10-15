@@ -1,0 +1,101 @@
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\bin\Debug\CRUD AGUNG.exe.config
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\bin\Debug\CRUD AGUNG.exe
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\bin\Debug\CRUD AGUNG.pdb
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Delete.resources
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Form1.resources
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Insert.resources
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Update.resources
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.exe
+C:\Users\ASUS\OneDrive\Documents\Falkutas Ilmu Komputer\SEMESTER 5\Visual Programming\Latihan\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.pdb
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\CRUD AGUNG.exe.config
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\CRUD AGUNG.exe
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\CRUD AGUNG.pdb
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.AssemblyReference.cache
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Delete.resources
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Form1.resources
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Insert.resources
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Properties.Resources.resources
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.Update.resources
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.GenerateResource.cache
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.csproj.CopyComplete
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.exe
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.pdb
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD AGUNG.exe.licenses
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Music\CRUD AGUNG (1)\CRUD AGUNG\CRUD AGUNG\obj\Debug\CRUD_AGUNG.notif.resources
