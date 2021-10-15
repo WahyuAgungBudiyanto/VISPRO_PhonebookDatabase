@@ -4,19 +4,29 @@
 <h3 align="center">
 CRUD Complete Project + UI</h3>
 
-# Follow Me At 🔗
+# Buy Me A Coffee ☕
 <p align="center">
 	<b>
-		
-		<a href="https://web.facebook.com/wahyu.agung.77715/">
+		<a href="https://www.paypal.me/am523">
+			Paypal Donate
+		</a>&nbsp;|
+		<a href="https://www.patreon.com/user/creators?u=43122521">
+			Patreon
+		</a>&nbsp;|
+		<a href="https://dribbble.com/am523_">
+			Dribbble
+		</a>&nbsp;|
+		<a href="https://www.youtube.com/channel/UCwI8AQlBewsdxbyk2r4n9CQ">
+			Youtube
+		</a>&nbsp;|
+		<a href="https://web.facebook.com/project523">
 			Facebook
 		</a>&nbsp;|
-		<a href="https://www.instagram.com/agung.b27/">
+		<a href="https://www.instagram.com/0x0000523am/">
 			Instagram
 		</a>
 	</b>
   </p>
-  
 
 
 
